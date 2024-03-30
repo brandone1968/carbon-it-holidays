@@ -1,5 +1,5 @@
 # Carbon Support for IT Holidays
-This is just a fork to upgrade the package to Laravel 6.0
+This is just a fork to upgrade the package [carbon-it-holidays](https://github.com/pizar/carbon-it-holidays) to Laravel 6.0
 This extends [Carbon](http://carbon.nesbot.com/) and adds support for several IT holidays.
 
 ### Requirements
@@ -10,7 +10,7 @@ This extends [Carbon](http://carbon.nesbot.com/) and adds support for several IT
 
 #### With Composer
 ```
-$ composer require pizar/carbon-it-holidays
+$ composer require brandone1968/carbon-it-holidays
 ```
 
 ```php
@@ -25,7 +25,7 @@ use ITHolidays\Carbon;
 ```php
 <?php
 require 'path/to/nesbot/Carbon.php';
-require 'path/to/pizar/Carbon.php';
+require 'path/to/brandone1968/Carbon.php';
 
 use ITHolidays\Carbon;
 ```
