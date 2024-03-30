@@ -4,14 +4,13 @@
     "keywords": ["bank", "holiday", "holidays", "carbon"],
     "authors": [
         {
-            "name": "Pietro Ferraresi",
-            "email": "pietro.ferraresi@gmail.com"
+            "name": "Massimo Brandone""
         }
     ],
     "minimum-stability": "dev",
     "license": "MIT",
     "require": {
-        "nesbot/carbon": "^1.22"
+        "nesbot/carbon": "^2.22|^3"
     },
     "autoload": {
         "psr-4": {

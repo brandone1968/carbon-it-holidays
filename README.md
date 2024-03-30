@@ -1,21 +1,6 @@
 # Carbon Support for IT Holidays
+This is just a fork to upgrade the package to Laravel 6.0
 This extends [Carbon](http://carbon.nesbot.com/) and adds support for several IT holidays.
-
-I start from this repo: https://github.com/geoffreyrose/us-holidays and i customize for italian calendar 
-
-### Supported Holidays
- * New Years Day
- * Epiphany
- * Easter
- * Easter Monday
- * Liberation Day
- * Labour Day
- * Republic day
- * Assumption of Mary
- * All Saints' Day
- * Immaculate Conception Day
- * Christmas Day
- * St. Stephen's Day
 
 ### Requirements
  * [Carbon](http://carbon.nesbot.com/)
